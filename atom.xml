@@ -5,9 +5,9 @@
   <subtitle>PE Faction</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://www.peit.club/"/>
   <updated>2019-01-07T14:19:13.330Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://www.peit.club/</id>
   
   <author>
     <name>PE Fang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello world</title>
-    <link href="http://yoursite.com/2019/01/04/Hello%20world/"/>
-    <id>http://yoursite.com/2019/01/04/Hello world/</id>
+    <link href="http://www.peit.club/2019/01/04/Hello%20world/"/>
+    <id>http://www.peit.club/2019/01/04/Hello world/</id>
     <published>2019-01-04T15:21:37.000Z</published>
     <updated>2019-01-07T14:19:13.330Z</updated>
     
@@ -34,7 +34,7 @@
     
     </summary>
     
-      <category term="生活随笔" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+      <category term="生活随笔" scheme="http://www.peit.club/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
     
     
   </entry>
