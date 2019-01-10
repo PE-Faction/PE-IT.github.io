@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.peit.club/"/>
-  <updated>2019-01-08T10:59:22.702Z</updated>
+  <updated>2019-01-10T03:03:49.611Z</updated>
   <id>http://www.peit.club/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>机器人自动化领域欧洲SCI调研</title>
+    <link href="http://www.peit.club/2019/01/10/robotSCI/"/>
+    <id>http://www.peit.club/2019/01/10/robotSCI/</id>
+    <published>2019-01-10T01:32:06.000Z</published>
+    <updated>2019-01-10T03:03:49.611Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;因为最近有需要，所以专门花了一些时间，对于近几年的机器人自动化领域的SCI进行了一些调研，从小木虫，web of science查了不少的资料，发现目前的这方面的资料很少，有的就是很长时间之前的，因此我根据自己的查到的，做一个小小的总结，不是很全面，以后根据查询的情况进行更新。<br><a id="more"></a></p><p><div align="center"><img src="http://data.peit.club/19-1-6/99139493.jpg" alt="2018年中科院机器人自动化领域SCI分区表"></div><br>&emsp;&emsp;这个是2017年中科院机器人自动化领域的SCI分区表，目前这个领域尚没有出现突破2区，进入1区的期刊。对于2区和3区的这些期刊，我在此不过多阐述，作为这个领域最富盛名的几个期刊，关于他们的各种信息，在网上比较全面，大家可以根据自己的情况自行查阅。我主要介绍之后的一些资料比较少的期刊。<br><strong>1.ROBOTICA</strong><br>&emsp;&emsp;剑桥出品的机器人领域的期刊，一看这个名字，就是知道，基本上关于机器人领域的所有方向都可以往这期刊投，审稿周期：平均 11 个月的审稿周期 ，大部分徘徊在6-12个月，算是比较慢的一个期刊。</p><p><div align="center"><img src="http://data.peit.club/19-1-6/66435569.jpg" alt="ROBOTICA"></div><br><strong>2.Journal of Intelligent &amp; Robotic Systems</strong><br>&emsp;&emsp;跟robotica的IF并驾齐驱的期刊，近几年在IF方面好像还有赶超的趋势。审稿周期：平均为6个月，一般两个月给第一次决定。</p><p><div align="center"><img src="http://data.peit.club/19-1-6/11022986.jpg" alt="Journal of Intelligent &amp; Robotic Systems"></div><br><strong>3.INTERNATIONAL JOURNAL OF ADVANCED ROBOTIC SYSTEMS</strong><br>&emsp;&emsp;审稿周期：平均 6 个月的审稿周期，好多三个月就完成，比第二个快。</p><p><div align="center"><img src="http://data.peit.club/19-1-6/91281797.jpg" alt="INTERNATIONAL JOURNAL OF ADVANCED ROBOTIC SYSTEMS"></div><br><strong>4.ADVANCED ROBOTICS</strong><br>&emsp;&emsp;重视理论创新，平均 5.25 个月的审稿周期。</p><p><div align="center"><img src="http://data.peit.club/19-1-6/39445547.jpg" alt="ADVANCED ROBOTICS"></div><br><strong>5.International Journal of Humanoid Robotics</strong><br>&emsp;&emsp;仿人机器人方向的，平均 6 个月的审稿周期，资料比较少。</p><p><div align="center"><img src="http://data.peit.club/19-1-6/61689853.jpg" alt="International Journal of Humanoid Robotics"></div><br><strong>6.Intelligent Service Robotics</strong><br>&emsp;&emsp;网上资料较少，所以只能给一些简易的介绍。</p><p><div align="center"><img src="http://data.peit.club/19-1-6/53036847.jpg" alt="Intelligent Service Robotics"></div><br><strong>7.INTERNATIONAL JOURNAL OF ROBOTICS &amp; AUTOMATION</strong><br>&emsp;&emsp;审稿周期：平均为6个月，审稿速度有点慢，三个月左右给一审结果，中的几率比较大一些。</p><p><div align="center"><img src="http://data.peit.club/19-1-6/89415097.jpg" alt="INTERNATIONAL JOURNAL OF ROBOTICS &amp; AUTOMATION"></div><br>&emsp;&emsp;最后跟大家推荐一个微信公众号<strong>中科院文献情报中心分区表</strong>，里面对于期刊的资料收录比较给力，大家有需要的可以关注一下！</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&amp;emsp;&amp;emsp;因为最近有需要，所以专门花了一些时间，对于近几年的机器人自动化领域的SCI进行了一些调研，从小木虫，web of science查了不少的资料，发现目前的这方面的资料很少，有的就是很长时间之前的，因此我根据自己的查到的，做一个小小的总结，不是很全面，以后根据查询的情况进行更新。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="现状调研" scheme="http://www.peit.club/categories/%E7%8E%B0%E7%8A%B6%E8%B0%83%E7%A0%94/"/>
+    
+    
+      <category term="机器人" scheme="http://www.peit.club/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello world</title>
