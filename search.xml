@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[python33_base]]></title>
+    <url>%2F2019%2F01%2F23%2Fpython33-base%2F</url>
+    <content type="text"><![CDATA[#python3基础语法&emsp;&emsp;最近一段时间一直在看python的一些东西，虽然之前学过一些，但是基本语法忘的实在是有一点快，所以打算写一篇python基础语法的总结，以便以后不熟悉python语法的时候可以快速回顾,不关注细节，主要针对python3的框架结构和最基本的方法。 ##1.python3基本数据类型 ###1.1数字&emsp;&emsp;python3支持int，float，bool，complex(复数)，python的数字的赋值和基本的运算操作都比较直接。这个只要看到过python的基本操作，应该问题就不是很大。 ###1.2字符串&emsp;&emsp;Python3中的字符串用单引号 ‘ 或双引号 “ 括起来，同时使用反斜杠 \ 转义特殊字符。python的字符串也是从0为下标开始的。123456str='hello world!'str[i] #str的第i个字符(下标从0开始)str[i:j]#str的第i个字符到第j个字符str[i:]#str的第i个字符开始以及之后的所有的字符len(str)#str的长度 ###1.3列表&emsp;&emsp; list是python中出场比较高的数据类型，他用[]来承载，每个元素可以涵盖各种数据类型，list的基本的方法和字符串类似，可以采用同样的方法进行检索和切片,对于list的基本掌握，应该主要关注的他的基本的方法：1.基本的检索和切片方式（和字符串基本一样）2.基本函数123456del list[i];#删除第i个元素len(list);#list长度list.append(obj)#列表末尾添加新的元素list.pop()#弹出最后一个元素,并返回该元素的值list.clear()#清空列表list.copy()#复制列表 ###1.4元组&emsp;&emsp;Python 的元组与列表类似，不同之处在于元组的元素不能修改。元组使用()，列表使用[]。元组创建很简单，只需要在括号中添加元素，并使用逗号隔开即可。元组也可以被索引和切片，方法一样。 ###1.5集合&emsp;&emsp;集合（set）是由一个或数个形态各异的大小整体组成的，构成集合的事物或对象称作元素或是成员。基本功能是进行成员关系测试和删除重复元素。可以使用大括号 { } 或者 set() 函数创建集合，注意：创建一个空集合必须用 set() 而不是 { }，因为 { } 是用来创建一个空字典。1234567891011121314#基本的操作&gt;&gt;&gt;basket = &#123;'apple', 'orange', 'apple', 'pear', 'orange', 'banana'&#125;&gt;&gt;&gt; print(basket) # 这里演示的是去重功能&#123;'orange', 'banana', 'pear', 'apple'&#125;&gt;&gt;&gt; 'orange' in basket # 快速判断元素是否在集合内True&gt;&gt;&gt; 'crabgrass' in basketFalse#基本的函数s.add( x )s.remove( x )len(s)s.clear() ###1.6字典&emsp;&emsp;字典主要关注键值对的概念，字典是另一种可变容器模型，且可存储任意类型对象。字典的每个键值(key=&gt;value)对用冒号(:)分割，每个对之间用逗号(,)分割，整个字典包括在花括号({})中 ,格式如下所示：12d = &#123;key1 : value1, key2 : value2 &#125;d[key1] #根据键访问值 ##2.python3基本运算逻辑&emsp;&emsp;基本的运算逻辑主要是两个方面，一为条件控制逻辑，二为循环逻辑。对于这两者的掌握还是主要以熟悉基本的语法逻辑为主。1.条件控制123456if condition_1: statement_1elif condition_2: statement_2else: statement_3 2.循环逻辑12345678910111213while 判断条件: #while循环 语句else： 语句for variable in sequence: #for循环 statementselse: statements range() #range函数，可以重点掌握一下他的数字序列遍历方式break,continue,pass #区别一下三者不同 &emsp;&emsp;对于基本的函数和类操作以及模块操作，因为比较范围，所以不展开去讲啦！这里推荐一下菜鸟教程——函数操作，类操作，模块操作，通过快速浏览一下，将可以用最快的速度，去熟悉python的基本语法。]]></content>
+      <categories>
+        <category>python编程</category>
+      </categories>
+      <tags>
+        <tag>python编程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[机器人自动化领域欧洲SCI调研]]></title>
     <url>%2F2019%2F01%2F10%2FrobotSCI%2F</url>
     <content type="text"><![CDATA[&emsp;&emsp;因为最近有需要，所以专门花了一些时间，对于近几年的机器人自动化领域的SCI进行了一些调研，从小木虫，web of science查了不少的资料，发现目前的这方面的资料很少，有的就是很长时间之前的，因此我根据自己的查到的，做一个小小的总结，不是很全面，以后根据查询的情况进行更新。 &emsp;&emsp;这个是2017年中科院机器人自动化领域的SCI分区表，目前这个领域尚没有出现突破2区，进入1区的期刊。对于2区和3区的这些期刊，我在此不过多阐述，作为这个领域最富盛名的几个期刊，关于他们的各种信息，在网上比较全面，大家可以根据自己的情况自行查阅。我主要介绍之后的一些资料比较少的期刊。1.ROBOTICA&emsp;&emsp;剑桥出品的机器人领域的期刊，一看这个名字，就是知道，基本上关于机器人领域的所有方向都可以往这期刊投，审稿周期：平均 11 个月的审稿周期 ，大部分徘徊在6-12个月，算是比较慢的一个期刊。 2.Journal of Intelligent &amp; Robotic Systems&emsp;&emsp;跟robotica的IF并驾齐驱的期刊，近几年在IF方面好像还有赶超的趋势。审稿周期：平均为6个月，一般两个月给第一次决定。 3.INTERNATIONAL JOURNAL OF ADVANCED ROBOTIC SYSTEMS&emsp;&emsp;审稿周期：平均 6 个月的审稿周期，好多三个月就完成，比第二个快。 4.ADVANCED ROBOTICS&emsp;&emsp;重视理论创新，平均 5.25 个月的审稿周期。 5.International Journal of Humanoid Robotics&emsp;&emsp;仿人机器人方向的，平均 6 个月的审稿周期，资料比较少。 6.Intelligent Service Robotics&emsp;&emsp;网上资料较少，所以只能给一些简易的介绍。 7.INTERNATIONAL JOURNAL OF ROBOTICS &amp; AUTOMATION&emsp;&emsp;审稿周期：平均为6个月，审稿速度有点慢，三个月左右给一审结果，中的几率比较大一些。 &emsp;&emsp;最后跟大家推荐一个微信公众号中科院文献情报中心分区表，里面对于期刊的资料收录比较给力，大家有需要的可以关注一下！]]></content>
